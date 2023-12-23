@@ -70,7 +70,6 @@ else:
 
 ```
  
-
 # Output : 
 
 ![Screenshot 2023-12-23 184141](https://github.com/Bharathraj2006/Poisson_distribution/assets/152376845/ea7af7c6-0d00-49ea-b864-0a88fef7ae8c)
